@@ -1,0 +1,3 @@
+/home/aleksandra/CLionProjects/dziennik_preprocesor/cmake-build-debug/CMakeFiles/dziennik_preprocesor.dir
+/home/aleksandra/CLionProjects/dziennik_preprocesor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aleksandra/CLionProjects/dziennik_preprocesor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

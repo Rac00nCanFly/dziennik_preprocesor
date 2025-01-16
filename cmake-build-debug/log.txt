@@ -1,0 +1,5 @@
+[INFO] Teraz poziom został zmieniony na FINE.
+main.cpp
+21:29:29
+37
+wypiszKomunikat
